@@ -1,1 +1,1 @@
-<?php inculude_once("RGBColorGame.html"); ?>
+<?php include_once("index.html"); ?>
